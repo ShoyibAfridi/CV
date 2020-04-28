@@ -1,8 +1,5 @@
 body {
   background-color: lightblue;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 30px;
 
 }
 
@@ -14,12 +11,11 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
-  margin-top: 230px;
  }
 
-img {height: 190px;
-	width: 180px;
-	border: 8;
+img {height: 19%;
+	width: 18%;
+	border: 4;
 	float: right;
     }
 
